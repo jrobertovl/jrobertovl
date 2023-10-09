@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </div>  
     
 ## Skills
-<div style="display: inline_block"><br>
+<div>
   <img align="center" alt="jrobertovl-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jrobertovl-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="jrobertovl-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 ## IDE
-<div style="display: inline_block"><br/>
+<div>
     <img aling="center" alt="Android studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
     <img aling="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
     <img aling="center" alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
