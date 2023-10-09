@@ -1,5 +1,3 @@
-### Olá eu sou José Roberto, estundante de Ciência da Computação - Faci Wyden 👋
-
 <!--
 **jrobertovl/jrobertovl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,12 +14,15 @@ Here are some ideas to get you started:
 
 ![Snake animation](https://github.com/jrobertovl/jrobrtyovl/blob/output/github-contribution-grid-snake.svg)
 -->
+### Olá eu sou José Roberto, estundante de Ciência da Computação - Faci Wyden 👋
+## Skills
+
 <div>
   <a href="https://github.com/jrobertovl/">
   <img heght="180em" src="https://github-readme-stats.vercel.app/api?username=jrobertovl&show_icons=true&theme=dracula&include_all_commitstrue&count_private=true"/>
   <img heght="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrobertovl&layout=compact&langs_counts=16&theme=dracula"/> 
 </div>    
-### Skills
+
 <div style="display: inline_block"><br>
   <img align="center" alt="jrobertovl-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jrobertovl-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
