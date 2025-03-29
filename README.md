@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ![Snake animation](https://github.com/jrobertovl/jrobrtyovl/blob/output/github-contribution-grid-snake.svg)
 -->
-### Olá eu sou José Roberto, estundante de Ciência da Computação - Faci Wyden 👋
+### Olá eu sou José Roberto, Bacharel em Ciência da Computação - Faci Wyden 👋
 
 
 <div>
